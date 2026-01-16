@@ -139,5 +139,3 @@ MIT License
 Contact: info@thecetqap.com 
 
 For academic collaboration or research discussion:
-
-[Your Email]
